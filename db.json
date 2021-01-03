@@ -1,0 +1,63 @@
+{
+"ownerActivities":{
+        "allActivitiesResult":{
+            "nextOffset":"5",
+            "activities":[
+                {
+                    "activity":{
+                        "id":"1000",
+			"listingType":"",
+                        "listingName":"Maestral 560",
+			"bookerName":"John Doe",
+                        "reservationStatus":"Reserved",
+                        "startDate":"10.1.2020",
+                        "endDate":"12.1.2020",
+                        "totalPrice":"720€",
+                        "createdAt":"10:30",
+                        "canceledAt":""
+                    }
+                },{
+                    "activity":{
+                        "id":"1101",
+                        "listingType":"",
+                        "listingName":"Maestral 560",
+			"bookerName":"John Doe",
+                        "reservationStatus":"Reserved",
+                        "startDate":"13.1.2020",
+                        "endDate":"13.1.2020",
+                        "totalPrice":"300€",
+                        "createdAt":"15:31",
+                        "canceledAt":""
+                    }
+                },{
+                    "activity":{
+                        "id":"1321",
+                        "listingType":"",
+                        "listingName":"Maestral 560",
+			"bookerName":"John Doe",
+                        "reservationStatus":"Reserved",
+                        "startDate":"10.1.2020",
+                        "endDate":"12.1.2020",
+                        "totalPrice":"720€",
+                        "createdAt":"10:30",
+                        "canceledAt":""
+                    }
+                },{
+                    "activity":{
+                        "id":"1411",
+                        "listingType":"",
+                        "listingName":"Maestral 560",
+			"bookerName":"John Doe",
+                        "reservationStatus":"Reserved",
+                        "startDate":"14.1.2020",
+                        "endDate":"21.1.2020",
+                        "totalPrice":"1720€",
+                        "createdAt":"09:11",
+                        "canceledAt":""
+                    }
+                }
+            ]
+        }
+
+    }
+}
