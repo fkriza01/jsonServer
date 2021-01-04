@@ -59,5 +59,87 @@
             ]
         }
 
-    }
+    },
+
+    "reservation_details":{
+	"allReservationsResult":{
+            "nextOffset":"5",
+            "reservations":[
+                {
+                    "reservation":{
+                        "id":"1000",
+                        "listingName":"Maestral 560",
+			"bookerName":"John Doe",
+			"bookerNumber":"+395 1234 5678",
+                        "reservationStatus":"Reserved",
+                        "startDate":"10.1.2020",
+                        "endDate":"12.1.2020",
+                        "totalPrice":"720€",
+			"paiedAlready":"320€",
+			"numAdults":"3",
+			"numChildren":"4",
+			"guestName":"Ana",
+			"guestNumber":"+49 1234 5678",
+                        "createdAt":"10 December 2020 at 10:30",
+                        "canceledAt":""
+                    }
+                },{
+                    "reservation":{
+                        "id":"1101",
+                        "listingName":"Maestral 560",
+			"bookerName":"John Day",
+			"bookerNumber":"+395 1234 5678",
+                        "reservationStatus":"New reservation",
+                        "startDate":"11.1.2020",
+                        "endDate":"13.1.2020",
+                        "totalPrice":"720€",
+			"paiedAlready":"320€",
+			"numAdults":"3",
+			"numChildren":"2",
+			"guestName":"Ana Marija",
+			"guestNumber":"+49 1234 5678",
+                        "createdAt":"11 December 2020 at 10:30",
+                        "canceledAt":""
+                    }
+                },{
+                    "reservation":{
+                        "id":"1321",
+                        "listingName":"Maestral 560",
+			"bookerName":"John Doe",
+			"bookerNumber":"+395 1234 5678",
+                        "reservationStatus":"Reserved",
+                        "startDate":"15.1.2020",
+                        "endDate":"16.1.2020",
+                        "totalPrice":"720€",
+			"paiedAlready":"320€",
+			"numAdults":"3",
+			"numChildren":"4",
+			"guestName":"Ana Marija",
+			"guestNumber":"+49 1234 5678",
+                        "createdAt":"10 December 2020 at 10:30",
+                        "canceledAt":""
+                    }
+                },{
+                    "reservation":{
+                        "id":"1411",
+                        "listingName":"Maestral 560",
+			"bookerName":"John Doe",
+			"bookerNumber":"+395 1234 5678",
+                        "reservationStatus":"Reserved",
+                        "startDate":"10.1.2020",
+                        "endDate":"12.1.2020",
+                        "totalPrice":"720€",
+			"paiedAlready":"320€",
+			"numAdults":"3",
+			"numChildren":"4",
+			"guestName":"Ana Marija",
+			"guestNumber":"+49 1234 5678",
+                        "createdAt":"10 December 2020 at 10:30",
+                        "canceledAt":""
+                    }
+                }
+            ]
+        }
+
+	}
 }
