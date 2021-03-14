@@ -1,8 +1,5 @@
 {
-"ownerActivities":{
-        "allActivitiesResult":{
-            "nextOffset":"5",
-            "activities":[
+"ownerActivities":[
                 {
                     "activity":{
                         "id":"1000",
@@ -57,14 +54,11 @@
                     }
                 }
             ]
-        }
+        
 
-    },
+    ,
 
-    "reservation_details":{
-	"allReservationsResult":{
-            "nextOffset":"5",
-            "reservations":[
+    "reservation_details":[
                 {
                     "reservation":{
                         "id":"1000",
@@ -159,5 +153,3 @@
             ]
         }
 
-	}
-}
