@@ -1,8 +1,5 @@
 {
-"ownerActivities":{
-        "allActivitiesResult":{
-            "nextOffset":"5",
-            "activities":[
+"ownerActivities":[
                 {
                     "activity":{
                         "id":"1000",
@@ -57,14 +54,11 @@
                     }
                 }
             ]
-        }
+        
 
-    },
+    ,
 
-    "reservation_details":{
-	"allReservationsResult":{
-            "nextOffset":"5",
-            "reservations":[
+    "reservation_details":[
                 {
                     "reservation":{
                         "id":"1000",
@@ -156,8 +150,43 @@
                         "canceledAt":""
                     }
                 }
-            ]
+            ],
+            
+  "boatReservationPreviewDTO": {
+    "bookingCompanyId": "string",
+    "bookingCompanyName": "string",
+    "canceledAt": "2021-03-16T18:49:59.963Z",
+    "createdAt": "2021-03-16T18:49:59.963Z",
+    "endDate": "2021-03-16",
+    "listingId": "string",
+    "listingName": "string",
+    "reservationId": "string",
+    "reservationStatus": "CANCELED",
+    "startDate": "2021-03-16",
+    "totalPrice": "string",
+    "updatedAt": "2021-03-16T18:49:59.963Z"
+  },
+  "bookingCompanyEmail": "string",
+  "bookingCompanyNote": "string",
+  "bookingCompanyPhoneNumber": "string",
+  "customerEmail": "string",
+  "customerName": "string",
+  "customerPhoneNumber": "string",
+  "endTime": {
+    "hour": 0,
+    "minute": 0,
+    "nano": 0,
+    "second": 0
+  },
+  "paid": "string",
+  "personNumber": "string",
+  "skipperNeeded": true,
+  "startTime": {
+    "hour": 0,
+    "minute": 0,
+    "nano": 0,
+    "second": 0
+  }
+
         }
 
-	}
-}
