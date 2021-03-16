@@ -81,8 +81,8 @@
   "customerName": "string",
   "customerPhoneNumber": "string",
   "endTime": {
-    "hour": 0,
-    "minute": 0,
+    "hour": 20,
+    "minute": 2,
     "nano": 0,
     "second": 0
   },
@@ -97,5 +97,5 @@
   }
   }
 
-        }
+}
 
