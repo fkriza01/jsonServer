@@ -8,7 +8,7 @@
 			"bookerName":"John Doe",
                         "reservationStatus":"Reserved",
                         "startDate":"2021-02-02",
-                        "endDate":"12-1-2020",
+                        "endDate":"2021-03-02",
                         "totalPrice":"720€",
                         "createdAt":"10:30",
                         "canceledAt":""
@@ -21,7 +21,7 @@
 			"bookerName":"John Doe",
                         "reservationStatus":"Reserved",
                         "startDate":"2021-02-04",
-                        "endDate":"13-1-2020",
+                        "endDate":"2021-02-04",
                         "totalPrice":"300€",
                         "createdAt":"15:31",
                         "canceledAt":""
@@ -34,7 +34,7 @@
 			"bookerName":"John Doe",
                         "reservationStatus":"Reserved",
                         "startDate":"2021-02-06",
-                        "endDate":"12-1-2020",
+                        "endDate":"2021-03-08",
                         "totalPrice":"720€",
                         "createdAt":"10:30",
                         "canceledAt":""
@@ -47,7 +47,7 @@
 			"bookerName":"John Doe",
                         "reservationStatus":"Reserved",
                         "startDate":"2021-03-11",
-                        "endDate":"21-1-2020",
+                        "endDate":"2021-03-16",
                         "totalPrice":"1720€",
                         "createdAt":"09:11",
                         "canceledAt":""
