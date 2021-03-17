@@ -82,7 +82,7 @@
   "customerPhoneNumber": "string",
   "endTime": {
     "hour": 20,
-    "minute": 02,
+    "minute": 2,
     "nano": 0,
     "second": 0
   },
