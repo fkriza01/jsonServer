@@ -71,7 +71,7 @@
     "reservationId": "string",
     "reservationStatus": "CANCELED",
     "startDate": "2021-03-16",
-    "totalPrice": "string",
+    "totalPrice": "220",
     "updatedAt": "2021-03-16T18:49:59.963Z"
   },
   "bookingCompanyEmail": "string",
@@ -86,7 +86,7 @@
     "nano": 0,
     "second": 0
   },
-  "paid": "string",
+  "paid": "44",
   "personNumber": "string",
   "skipperNeeded": true,
   "startTime": {
