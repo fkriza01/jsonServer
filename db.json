@@ -1,101 +1,55 @@
-{
-"ownerActivities":[
-                {
-                    "activity":{
-                        "id":"1000",
-			"listingType":"1",
-                        "listingName":"Maestral 560",
-			"bookerName":"John Doe",
-                        "reservationStatus":"Reserved",
-                        "startDate":"2021-02-02",
-                        "endDate":"2021-03-02",
-                        "totalPrice":"720€",
-                        "createdAt":"10:30",
-                        "canceledAt":""
-                    }
-                },{
-                    "activity":{
-                        "id":"1101",
-                        "listingType":"3",
-                        "listingName":"Maestral 560",
-			"bookerName":"John Doe",
-                        "reservationStatus":"Reserved",
-                        "startDate":"2021-02-04",
-                        "endDate":"2021-02-04",
-                        "totalPrice":"300€",
-                        "createdAt":"15:31",
-                        "canceledAt":""
-                    }
-                },{
-                    "activity":{
-                        "id":"1321",
-                        "listingType":"3",
-                        "listingName":"Maestral 560",
-			"bookerName":"John Doe",
-                        "reservationStatus":"Reserved",
-                        "startDate":"2021-02-06",
-                        "endDate":"2021-03-08",
-                        "totalPrice":"720€",
-                        "createdAt":"10:30",
-                        "canceledAt":""
-                    }
-                },{
-                    "activity":{
-                        "id":"1411",
-                        "listingType":"1",
-                        "listingName":"Maestral 560",
-			"bookerName":"John Doe",
-                        "reservationStatus":"Reserved",
-                        "startDate":"2021-03-11",
-                        "endDate":"2021-03-16",
-                        "totalPrice":"1720€",
-                        "createdAt":"09:11",
-                        "canceledAt":""
-                    }
-                }
-            ]
-        
-
-    ,
-
-            "owner":{
-            
-  "boatReservationPreviewDTO": {
-    "bookingCompanyId": "string",
-    "bookingCompanyName": "Agency Roko",
-    "canceledAt": "2021-03-16T18:49:59.963Z",
-    "createdAt": "2021-03-16T18:49:59.963Z",
-    "endDate": "2021-03-16",
-    "listingId": "string",
-    "listingName": "Cap Camarat 6.5",
-    "reservationId": "34563223456",
-    "reservationStatus": "CANCELED",
-    "startDate": "2021-03-16",
-    "totalPrice": "220",
-    "updatedAt": "2021-03-16T18:49:59.963Z"
+[
+  {
+      "id": "1000",
+      "listingType": "1",
+      "listingName": "Maestral 560",
+      "bookerName": "John Doe",
+      "reservationStatus": "Reserved",
+      "startDate": "2021-02-02",
+      "endDate": "2021-03-02",
+      "totalPrice": "720€",
+      "createdAt": "10:30",
+      "canceledAt": ""
   },
-  "bookingCompanyEmail": "agencyroko@gmail.com",
-  "bookingCompanyNote": "Hi, the guest would like to be appointed where the gas station is. So plan accordingly.",
-  "bookingCompanyPhoneNumber": "+385 99 325 1223",
-  "customerEmail": "gyrontimea@gmail.com",
-  "customerName": "Gyron Timea",
-  "customerPhoneNumber": "+41 543 2324 553",
-  "endTime": {
-    "hour": 18,
-    "minute": 0,
-    "nano": 0,
-    "second": 0
+  {
+
+      "id": "1101",
+      "listingType": "3",
+      "listingName": "Maestral 560",
+      "bookerName": "John Doe",
+      "reservationStatus": "Reserved",
+      "startDate": "2021-02-04",
+      "endDate": "2021-02-04",
+      "totalPrice": "300€",
+      "createdAt": "15:31",
+      "canceledAt": ""
+    
   },
-  "paid": "44",
-  "personNumber": "6",
-  "skipperNeeded": true,
-  "startTime": {
-    "hour": 9,
-    "minute": 0,
-    "nano": 0,
-    "second": 0
-  }
-  }
+  {
 
-}
-
+      "id": "1321",
+      "listingType": "3",
+      "listingName": "Maestral 560",
+      "bookerName": "John Doe",
+      "reservationStatus": "Reserved",
+      "startDate": "2021-02-06",
+      "endDate": "2021-03-08",
+      "totalPrice": "720€",
+      "createdAt": "10:30",
+      "canceledAt": ""
+    
+  },
+  {
+   
+      "id": "1411",
+      "listingType": "1",
+      "listingName": "Maestral 560",
+      "bookerName": "John Doe",
+      "reservationStatus": "Reserved",
+      "startDate": "2021-03-11",
+      "endDate": "2021-03-16",
+      "totalPrice": "1720€",
+      "createdAt": "09:11",
+      "canceledAt": ""
+  }
+]
