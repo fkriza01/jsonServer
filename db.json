@@ -52,5 +52,40 @@
       "createdAt": "09:11",
       "canceledAt": ""
   }
-]
+],
+"owner":  {"boatReservationPreviewDTO": {
+    "bookingCompanyId": "string",
+    "bookingCompanyName": "Agency Roko",
+    "canceledAt": "2021-03-16T18:49:59.963Z",
+    "createdAt": "2021-03-16T18:49:59.963Z",
+    "endDate": "2021-03-16",
+    "listingId": "string",
+    "listingName": "Cap Camarat 6.5",
+    "reservationId": "34563223456",
+    "reservationStatus": "CANCELED",
+    "startDate": "2021-03-16",
+    "totalPrice": "220",
+    "updatedAt": "2021-03-16T18:49:59.963Z"
+  },
+  "bookingCompanyEmail": "agencyroko@gmail.com",
+  "bookingCompanyNote": "Hi, the guest would like to be appointed where the gas station is. So plan accordingly.",
+  "bookingCompanyPhoneNumber": "+385 99 325 1223",
+  "customerEmail": "gyrontimea@gmail.com",
+  "customerName": "Gyron Timea",
+  "customerPhoneNumber": "+41 543 2324 553",
+  "endTime": {
+    "hour": 18,
+    "minute": 0,
+    "nano": 0,
+    "second": 0
+  },
+  "paid": "44",
+  "personNumber": "6",
+  "skipperNeeded": true,
+  "startTime": {
+    "hour": 9,
+    "minute": 0,
+    "nano": 0,
+    "second": 0
+    }}
 }
