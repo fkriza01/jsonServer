@@ -39,6 +39,34 @@
       "canceledAt": ""
     
   },
+    {
+
+      "id": "1321",
+      "listingType": "1",
+      "listingName": "Maestral 560",
+      "bookerName": "John Doe",
+      "reservationStatus": "Reserved",
+      "startDate": "2021-02-06",
+      "endDate": "2021-03-08",
+      "totalPrice": "720€",
+      "createdAt": "10:30",
+      "canceledAt": ""
+    
+  },
+    {
+
+      "id": "1321",
+      "listingType": "3",
+      "listingName": "Maestral 560",
+      "bookerName": "John Doe",
+      "reservationStatus": "Reserved",
+      "startDate": "2021-02-06",
+      "endDate": "2021-03-08",
+      "totalPrice": "720€",
+      "createdAt": "10:30",
+      "canceledAt": ""
+    
+  },
   {
    
       "id": "1411",
